@@ -99,3 +99,4 @@ History tracking реалізовано через масив всередині
 Counter A
 
 Demo video
+https://drive.google.com/file/d/17x3773_yXIhHge-c9DipX7PiKhKM8Aob/view?usp=sharing
